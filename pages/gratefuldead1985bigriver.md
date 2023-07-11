@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: GratefulDead1985BigRiver
 manifest_name: gratefuldead1985bigriver
 permalink: gratefuldead1985bigriver
