@@ -4,3 +4,7 @@
 
 layout: home
 ---
+## this is the basic page for AudiAnnotate ##
+
+**this is an example and not a real project**
+*probably best to ignore this* 
