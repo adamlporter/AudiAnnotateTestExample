@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://adamlporter.github.io/AudiAnnotateTestExample/annotations/gratefuldead1985bigriver-canvas-1-solo.json",
+  "type": "AnnotationPage",
+  "label": "Solo",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gratefuldead1985bigriver-canvas-1-solo-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Guitar Solo by Garcia",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Garcia_Jerry",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://adamlporter.github.io/AudiAnnotateTestExample/gratefuldead1985bigriver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gratefuldead1985bigriver-canvas-1-solo-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Drum Solo",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kreutzman_Bill",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://adamlporter.github.io/AudiAnnotateTestExample/gratefuldead1985bigriver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,240.0"
+        }
+      }
+    }
+  ]
+}
