@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://adamlporter.github.io/AudiAnnotateTestExample/annotations/gratefuldead1985bigriver-canvas-1-chorus.json",
-            "label": {
-              "none": ["Chorus"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://adamlporter.github.io/AudiAnnotateTestExample/annotations/gratefuldead1985bigriver-canvas-1-solo.json",
             "label": {
               "none": ["Solo"]
