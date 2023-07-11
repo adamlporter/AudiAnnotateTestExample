@@ -23,6 +23,24 @@
         "id": "https://adamlporter.github.io/AudiAnnotateTestExample/gratefuldead1985bigriver/canvas-1/canvas",
         "type": "Canvas",
         "duration": 322.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://adamlporter.github.io/AudiAnnotateTestExample/annotations/gratefuldead1985bigriver-canvas-1-chorus.json",
+            "label": {
+              "none": ["Chorus"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://adamlporter.github.io/AudiAnnotateTestExample/annotations/gratefuldead1985bigriver-canvas-1-solo.json",
+            "label": {
+              "none": ["Solo"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://adamlporter.github.io/AudiAnnotateTestExample/gratefuldead1985bigriver/canvas-1/paintings",
