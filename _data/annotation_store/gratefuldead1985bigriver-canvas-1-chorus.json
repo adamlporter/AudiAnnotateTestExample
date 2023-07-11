@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://adamlporter.github.io/AudiAnnotateTestExample/annotations/gratefuldead1985bigriver-canvas-1-chorus.json",
+  "type": "AnnotationPage",
+  "label": "Chorus",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gratefuldead1985bigriver-canvas-1-chorus-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Unison chorus",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "All",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://adamlporter.github.io/AudiAnnotateTestExample/gratefuldead1985bigriver/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7200.0,10800.0"
+        }
+      }
+    }
+  ]
+}
